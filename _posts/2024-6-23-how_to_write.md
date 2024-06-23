@@ -6,7 +6,6 @@ tags: [web]
 comments: true
 author: guoguo160
 ---
-
 加上：
 ```
 ---
@@ -17,4 +16,6 @@ tags: [tags1,tags2]
 comments: true
 author: guoguo160
 ---
+
+<!-- more -->
 ```
