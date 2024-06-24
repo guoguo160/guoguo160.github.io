@@ -10,3 +10,5 @@ permalink: /about/
 [atcoder](https://atcoder.jp/users/guoguo160)
 
 [codeforces](https://codeforces.com/profile/guoguo16000) 
+
+[codeforces2](https://codeforc.es/profile/guoguo16000)
